@@ -1,0 +1,5 @@
+# Flask File Upload & Access Security Testing
+# Python Dependencies
+
+Flask>=2.0.0
+Werkzeug>=2.0.0
