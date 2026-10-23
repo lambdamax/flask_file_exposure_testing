@@ -489,8 +489,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/mattsebastianh/flask_file_exposure_testing/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mattsebastianh/flask_file_exposure_testing/discussions)
+- **Issues**: [GitHub Issues](https://github.com/lambdamax/flask_file_exposure_testing/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/lambdamax/flask_file_exposure_testing/discussions)
 - **Security**: Report vulnerabilities privately via GitHub Security Advisories
 
 ---
